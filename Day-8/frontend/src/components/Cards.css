@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    display: flex;
+}
+.card{
+    padding: 0;
+    padding-top: 10px;
+border: 2px solid black;
+width: 50vh;
+border-radius: 20px;
+}
+img{
+    padding-top: 10px;
+}
+h1{
+    padding-top: 10px;
+    font-size: 40px;
+}
+h2{
+    padding-top: 15px;
+    font-size: 20px;
+}
